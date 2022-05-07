@@ -428,3 +428,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Git-secret
+.gitsecret/keys/random_seed
+!*.secret
+EncryptDecryptUsername/EncryptDecryptUsername.cpp
