@@ -18,6 +18,9 @@
     <ClCompile Include="EncryptDecryptUsername.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EncryptDecryptUsername.h">
